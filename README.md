@@ -10,6 +10,7 @@ This device does nothing as such. But if you place an MQTT listener listening to
 
 This way, meta offers a way to fully control NEEO (not the list though) only by sending/receiving MQTT messages.
 
-
+Full tutorial here:
+https://youtu.be/_BDKjCqjjwo
 
 ### CAREFUL : Label, Sliders, Image CAN'T have a name with a space inside. This is only recommanded for buttons (for example "CURSOR UP" works for a Button but won't work for a label).
